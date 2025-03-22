@@ -4,3 +4,4 @@ The first page is the recommendation tool. The recommendation algorithms is not 
 The second page conatins various visualizations from the provided data about Toronto restaurants. Those were created using Pandas and Bokeh.
 The third one is a display of other visualizations (images) from other members of the team.
 
+Open "multipages_streamlit.ipynb" into Colab. Then load all other files under the tab "Files".
